@@ -10,15 +10,12 @@ This project demonstrates the concept of SQL injection attacks and how to preven
 * License
 ## Technologies Used
 ### Frontend:
-#### HTML
-#### CSS
-#### JavaScript
+#### HTML, CSS, JavaScript
 ### Backend:
-#### Node.js (Express.js)
-#### MySQL
+#### Node.js (Express.js), MySQL, SQL Injection, Cross Site Scripting
+
 ### Other Tools:
 #### XAMPP (for MySQL)
-## How to Use
 ### SQL Injection Example:
 
 Navigate to the login page (/login) or any other page with a form that interacts with the database.
